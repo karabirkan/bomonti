@@ -2,9 +2,12 @@ import "./App.css";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 
 function App() {
-  return (
+  return
 
-  )
+  <Routes>
+<Route path="/" 
+  
+  </Routes>
 }
 
 export default App;
