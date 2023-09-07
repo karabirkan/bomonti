@@ -1,13 +1,7 @@
-import "./App.css";
-import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
+import Root from "./router/Root";
 
 function App() {
-  return
-
-  <Routes>
-<Route path="/" 
-  
-  </Routes>
+  return <Root />;
 }
 
 export default App;
