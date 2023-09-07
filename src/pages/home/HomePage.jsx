@@ -3,7 +3,7 @@ export default function HomePage() {
   return (
     <div>
       <Header />
-      <h1>Home & Shop Page</h1>
+      <h1>Home & Shop Page.</h1>
     </div>
   );
 }
